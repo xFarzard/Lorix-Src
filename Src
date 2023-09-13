@@ -1,3 +1,4 @@
+}
 getgenv().Settings = Settings
 
 local Mouse = game.Players.LocalPlayer:GetMouse()
